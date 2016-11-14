@@ -1,6 +1,6 @@
 {
   "name": "px-login",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "main": [
     "px-login.html"
   ],
@@ -34,14 +34,17 @@
     "px-demo-snippet": "^0.6.4",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
-    "px-actionable-text-icons-design": "^0.0.3",
+    "px-actionable-text-icons-design": "^0.1.0",
     "px-code-design": "^0.2.11",
     "px-list-inline-design": "^0.2.11",
     "px-buttons-design": "^0.4.26"
   },
   "resolutions": {
-    "iron-ajax": "^1.4.3",
-    "px-theme": "^1.1.2",
-    "px-typography-design": "~1.1.1"
+    "px-functions-design": "~1.0.0",
+    "px-defaults-design": "^0.3.0",
+    "px-iconography-design": "^0.3.1",
+    "iron-ajax": "^1.0.0",
+    "px-typography-design": "^1.1.0",
+    "px-theme": "^1.1.2"
   }
 }

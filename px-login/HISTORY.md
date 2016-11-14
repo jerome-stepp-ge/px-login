@@ -1,3 +1,11 @@
+v0.5.2
+=================
+* added style variables for theming
+
+v0.5.1
+=================
+* Updates dependencies to fix bower resolution for px-defaults-design
+
 v0.4.13
 =================
 * added code pen

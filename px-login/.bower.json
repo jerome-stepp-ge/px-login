@@ -1,6 +1,6 @@
 {
   "name": "px-login",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "main": [
     "px-login.html"
   ],
@@ -31,20 +31,20 @@
     "px-polymer-font-awesome": "^0.1.8",
     "px-tabs": "~0.5.2",
     "px-api-viewer": "~0.1.0",
-    "px-demo-snippet": "^0.5.1",
+    "px-demo-snippet": "^0.6.4",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
-    "px-actionable-text-icons-design": "^0.0.3",
+    "px-actionable-text-icons-design": "^0.1.0",
     "px-code-design": "^0.2.11",
     "px-list-inline-design": "^0.2.11",
     "px-buttons-design": "^0.4.26"
   },
   "homepage": "https://github.com/PredixDev/px-login",
-  "_release": "0.5.0",
+  "_release": "0.5.2",
   "_resolution": {
     "type": "version",
-    "tag": "v0.5.0",
-    "commit": "d1c4ec9251c466d72344043e3d1f20de9a97437b"
+    "tag": "v0.5.2",
+    "commit": "04b02ff7cdb2682267d88c8de8c8ab77e08fe40e"
   },
   "_source": "https://github.com/PredixDev/px-login.git",
   "_target": "^0.5.0",

@@ -1,3 +1,11 @@
+v0.5.4
+=================
+* added style variables for theming
+
+v0.5.3
+=================
+* Updated dependencies
+
 v0.4.13
 =================
 * added codepen
