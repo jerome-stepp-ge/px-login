@@ -1,3 +1,11 @@
+v0.5.8
+==================
+* changing all devDeps to ^
+
+v0.5.7
+==================
+* Update px-theme to 2.0.1 and update test fixtures
+
 v0.5.6
 ==================
 * cutover to px-polymer-font-awesome

@@ -40,6 +40,6 @@
     "commit": "8bee65122b33119ac8cabe5e16f7ea03c87a3517"
   },
   "_source": "https://github.com/predixDev/px-list-bare-design.git",
-  "_target": "~0.2.8",
+  "_target": "^0.2.8",
   "_originalSource": "px-list-bare-design"
 }
