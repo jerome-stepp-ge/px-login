@@ -23,7 +23,7 @@ common/abstract rules go in px-login-sketch.scss, not in this file.
 
 .login {
   button {
-    color: var(--px-login-button-color);
+    color: var(--px-login-button-color, $gray8);
   }
   background-color: inherit;
   > div {
