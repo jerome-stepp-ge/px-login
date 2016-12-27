@@ -23,6 +23,7 @@ common/abstract rules go in px-login-sketch.scss, not in this file.
 
 .login {
   position: var(--px-login-position, fixed);
+  bottom: var(--px-login-bottom, 0px);
   button {
     color: var(--px-login-button-color, $gray8);
   }
